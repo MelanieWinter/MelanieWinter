@@ -4,7 +4,7 @@
 
 ---
 
-### About Me :
+### 📡 About Me :
 I’m a software engineer, currently attending a bootcamp at General Assembly. 
 -  💡 I'm currently coding an intuitive recipe conversion webapp.
 -  👩‍💻 I'm working on leveling up my Code Wars kyu.
