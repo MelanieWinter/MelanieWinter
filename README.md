@@ -9,7 +9,13 @@ I’m a software engineer, currently attending a bootcamp at General Assembly.
 -  💡 I'm currently coding an intuitive recipe conversion webapp.
 -  👩‍💻 I'm working on leveling up my Code Wars kyu.
 -  📬 You can reach me by email <a href=mailto:“melaniewinter830@gmail.com”>here</a>.
--  ⚡️ Fun fact: I'm pretty darn good at lockpicking! 
+-  ⚡️ Fun fact: I'm pretty darn good at lockpicking!
+
+---
+
+<div>
+  <img src="https://www.codewars.com/users/MelanieWinter/badges/small" title="Code Wars Badge" alt="Code Wars Badge" />&nbsp;
+</div> 
 
 ---
 
