@@ -6,8 +6,8 @@
 
 ### About Me :
 I’m a software engineer, currently attending a bootcamp at General Assembly. 
--  💡 I'm currently working on an intuitive recipe conversion webapp.
--  👩‍💻 I'm currently working on leveling up my Code Wars kyu.
+-  💡 I'm currently coding an intuitive recipe conversion webapp.
+-  👩‍💻 I'm working on leveling up my Code Wars kyu.
 -  📬 You can reach me by email <a href=mailto:“melaniewinter830@gmail.com”>here</a>.
 -  ⚡️ Fun fact: I'm pretty darn good at lockpicking! 
 
